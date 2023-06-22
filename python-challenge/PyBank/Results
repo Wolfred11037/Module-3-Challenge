@@ -1,0 +1,10 @@
+Results
+Wolfred@DESKTOP-812T6FB MINGW64 ~/Documents/Data Analysis Boot Camp/Week 3/python-challenge
+$ C:/Users/Wolfred/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Wolfred/Documents/Data Analysis Boot Camp/Week 3/python-challenge/PyBank/Budger Data code.py"
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
