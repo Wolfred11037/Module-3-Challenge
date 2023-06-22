@@ -1,0 +1,14 @@
+Results
+
+Wolfred@DESKTOP-812T6FB MINGW64 ~/Documents/Data Analysis Boot Camp/Week 3/python-challenge
+$ C:/Users/Wolfred/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Wolfred/Documents/Data Analysis Boot Camp/Week 3/python-challenge/PyPoll/Election Data code.py"
+Election Results
+-------------------------
+Total Votes: 369711
+-------------------------
+Charles Casper Stockham: 23.05% (85213)
+Diana DeGette: 73.81% (272892)
+Raymon Anthony Doane: 3.14% (11606)    
+-------------------------
+Winner: Diana DeGette
+-------------------------
